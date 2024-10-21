@@ -1,0 +1,434 @@
+/* Navigation */
+.navbar-nav {
+    align-items: end;
+}
+
+.navbar-nav .nav-link {
+    color: #194465;
+    font-weight: 400;
+    font-family: 'Poppins';
+}
+
+.navbar-nav .nav-link:hover {
+    color: #163a54;
+    font-family: 'Poppins';
+}
+
+.navbar .navbar-brand {
+    color: #194465;
+    font-weight: 400;
+    font-size: x-large;
+    font-family: 'Poppins';
+}
+
+.navbar-brand:hover {
+    color: #163a54 !important;
+    font-family: 'Poppins';
+}
+
+
+/* Hero Section */
+
+.hero {
+    background-color:#194465;
+    height: 100%;
+
+}
+
+.header-title {
+    color: #fff;
+    font-family: 'Poppins';
+    font-size: 12vw;
+    letter-spacing: .1rem;
+    font-weight: 500;
+}
+
+.hero-cover {
+    position: relative;
+}
+
+.caption-box {
+    align-items: start;
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    font-family: 'Poppins';
+}
+
+.card-text {
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+.card {
+    border: 0;
+    border-radius: 0;
+    background-color:#194465;
+    position: relative;
+}
+
+.card-text {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+}
+
+
+/* About Section */
+
+.about {
+    background-color: #E0E0DB;
+    height: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.about-text {
+    font-family: 'Poppins';
+    font-weight: 300;
+}
+
+/* Goals Section */
+
+.goals {
+    background-color:#194465;
+    height: 100%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.goals-header {
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+
+/* Interests Section */
+
+
+.interests {
+    background-color:#E0E0DB;
+    height: 100%;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+
+.interests-header {
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+.interest-category {
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+/* Surf Banner */
+
+.surfing-banner {
+    background-image: url('images/surfingbanner.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #E0E0DB;
+    height: 100%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.footer-header {
+    font-family: 'poppins';
+    font-weight: 400;
+    margin-top: 2rem;
+}
+
+.contact-header {
+    font-family: 'poppins';
+    font-weight: 400;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.contact-info {
+    font-family: 'poppins';
+    font-weight: 400;
+}
+
+.linkedin-button {
+    font-family: 'poppins';
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn:hover {
+    background-color:#194465;
+    border-color:#194465;
+}
+
+/* Contact Page */
+
+/* Get In Touch */
+
+.getintouch {
+    height: 100%;
+    background-color:#E0E0DB;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'poppins';
+}
+
+.contact-title {
+    color:#000;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
+
+.contact-details {
+    color:#000;
+}
+
+.contact-email {
+    font-weight: 500;
+}
+
+.mail {
+    font-weight: 400;
+}
+
+.contact-phone {
+    font-weight: 500;
+}
+
+.phoneno {
+    font-weight: 400;
+}
+
+.linkedin-header {
+    font-weight: 500;
+}
+
+.contact-image {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+/* A bit about me. */
+
+.abitaboutme {
+    height: 100%;
+    background-color:#194465;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'poppins';
+}
+
+
+
+/* Case Studies Page */
+
+/* Title */
+
+.casestudytitle {
+    height: 100%;
+    background-color:#194465;
+    color:#fff;
+}
+
+.main-title {
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 12vw;
+    letter-spacing: .1rem;
+}
+
+.main-title-caption {
+    font-family: 'poppins';
+}
+
+/* Case Studies Preview */
+
+.page-link {
+    text-decoration: none;
+    background-color:#E0E0DB;
+}
+
+.case-link {
+    display: block;
+    text-decoration: none;
+}
+
+.case-link:hover .casestudypreview {
+    background-color:#e6e6e2;
+}
+
+.casestudypreview {
+    height: 100%;
+    background-color:#E0E0DB;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.casestudyintro {
+    height: 100%;
+    background-color:#E0E0DB;
+}
+
+.acpcasestudypreview {
+    height: 100%;
+    background-color:#E0E0DB;
+    display: hide;
+}
+
+.company-name {
+    font-family: 'poppins';
+    color:#003267;
+    font-size: 4vw;
+    font-weight: 400;
+}
+
+.bprei-introduction {
+    a:link {
+        text-decoration: none;
+        color: black;
+    }
+    a:visited {
+        color:#194465;
+    }
+    a:hover {
+        color:#194465;
+        text-decoration: underline;
+    }
+}
+
+/* More To Come */
+
+.staytuned {
+    height: 100%;
+    background-color:#E0E0DB;
+    color:#000;
+}
+
+.moretocome {
+    font-size: 3vw;
+}
+
+/* BPREI */
+
+/* BPREI Hero */
+
+.bprei-hero {
+    height: 100%;
+    background-color:#E0E0DB;
+    font-family: 'poppins';
+}
+
+/* Overview and The Challenge */
+
+.overview-challenge {
+    height: 100%;
+    background-color:#E0E0DB;
+    font-family: 'poppins';
+    color:#000;
+}
+
+/* Objectives and The Approach */
+
+.objectives {
+    height: 100%;
+    background-color:#E0E0DB;
+    font-family: 'poppins';
+    color:#000;
+}
+
+.approach {
+    height: 100%;
+    background-color: #194465;
+    color:#fff;
+    font-family: 'poppins';
+}
+
+.approach-header {
+    font-family: 'poppins';
+    font-weight: 400;
+}
+
+.approach-caption {
+    font-family: 'poppins';
+    color:#fff;
+}
+
+.build-bullet, .communicate-bullet, .develop-bullet {
+    padding: .5rem 0;
+}
+
+/* Campaigns */
+
+.direct-mail {
+    height: 100%;
+    background-color:#E0E0DB;
+    font-family: 'poppins';
+    color:#000;
+}
+
+.mail-header {
+    font-family: 'poppins';
+    font-weight: 300;
+}
+
+.payperclick {
+    height: 100%;
+    background-color:#E0E0DB;
+    font-family: 'poppins';
+    color:#000;
+}
+
+.landingpage {
+    height: 100%;
+    background-color:#E0E0DB;
+    font-family: 'poppins';
+    color:#000;
+}
+
+.results {
+    height: 100%;
+    background-color: #194465;
+    color:#fff;
+    font-family: 'poppins';
+}
+
+.results-header {
+    font-weight: 400;
+}
+
+.lookingahead {
+    height: 100%;
+    background-color:#E0E0DB;
+    color:#000;
+    font-family: 'poppins';
+}
+
+/* Quote and Unique Pieces */
+
+.quote {
+    height: 100%;
+    background-color: #194465;
+    color:#fff;
+    font-family: 'poppins';
+}
+
+.blockquote-footer {
+    font-family: 'poppins';
+    color: #fff;
+}
+
+.unique-scenario {
+    height: 100%;
+    background-color:#E0E0DB;
+    color:#000;
+    font-family: 'poppins';
+}

@@ -1,0 +1,62 @@
+.body {
+    margin: 0;
+    font-family: 'Poppins', 'Sans Serif';
+}
+
+@media only screen and (max-width: 570px) {
+    .header-title {
+        padding-top: 1rem;
+    }
+    .card {
+        padding-top: 1rem;
+    }
+    .goals-text {
+        padding-top: 1rem;
+    }
+    .sales {
+        padding-top: 1rem;
+    }
+    .surf {
+        padding-top: 1rem;
+    }
+    .contact-details-left {
+        padding-top: 1rem;
+    }
+    .contact-details-right {
+        padding-top: 1rem;
+    }
+    .getintouch {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .contact-title {
+        margin-bottom: 0;
+    }
+    .overview {
+        padding-top: 0;
+    }
+    .challenge {
+        padding-top: 2rem;
+    }
+    .avatar {
+        padding-top: 1rem;
+    }
+    .problem {
+        padding-top: 1rem;
+    }
+    .solution {
+        padding-top: 1rem;
+    }
+    .objectives {
+        padding-top: 2rem;
+    }
+    .postcardmockup {
+        padding-bottom: 2rem;
+    }
+    .results-caption {
+        padding-bottom: -5rem;
+    }
+    .crm-caption {
+        padding-bottom: 2rem;
+    }
+}
