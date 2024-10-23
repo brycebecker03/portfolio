@@ -146,23 +146,13 @@
 .footer-header {
     font-family: 'poppins';
     font-weight: 400;
-    margin-top: 2rem;
-}
-
-.funnel-header {
-    font-family: 'poppins';
-    font-weight: 400;
-    margin: 2rem 0;
-}
-
-.seemywork-button {
-    padding: 0;
+    
 }
 
 .contact-header {
     font-family: 'poppins';
     font-weight: 400;
-    margin: 2rem 0;
+    padding: 2rem 0;
 }
 
 .contact-info {
@@ -172,8 +162,6 @@
 
 .linkedin-button {
     font-family: 'poppins';
-    margin-top: 1rem;
-    margin-bottom: 1rem;
 }
 
 .btn:hover {
