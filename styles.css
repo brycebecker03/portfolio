@@ -149,11 +149,20 @@
     margin-top: 2rem;
 }
 
+.funnel-header {
+    font-family: 'poppins';
+    font-weight: 400;
+    margin: 2rem 0;
+}
+
+.seemywork-button {
+    padding: 0;
+}
+
 .contact-header {
     font-family: 'poppins';
     font-weight: 400;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin: 2rem 0;
 }
 
 .contact-info {
