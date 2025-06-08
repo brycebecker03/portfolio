@@ -276,10 +276,10 @@
     background-color:#E0E0DB;
 }
 
-.acpcasestudypreview {
+.crisishousecasestudyintro {
     height: 100%;
     background-color:#E0E0DB;
-    display: hide;
+    padding-top: 80px;
 }
 
 .company-name {
@@ -302,6 +302,13 @@
         color:#194465;
         text-decoration: underline;
     }
+}
+
+.crisishousecompany-name {
+    font-family: 'poppins';
+    color:#2188c0;
+    font-size: 4vw;
+    font-weight: 400;
 }
 
 /* More To Come */
